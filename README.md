@@ -31,6 +31,8 @@
    - [ ] Fast paced game
    - [ ] Instant respawn
    - [ ] Simple UI   
+   - [ ] Score system
+   - [ ] Randomised apple position
    
 <br></br>
 
