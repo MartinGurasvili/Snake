@@ -1,7 +1,7 @@
 <h1 align="center">Snake</h1>
 
 <div align="center">
-  <a href="https://github.com/MartinGurasvili/Sudoku">
+  <a href="https://github.com/MartinGurasvili/Snake">
     <img width="200" height="200" alt="cas" src="https://user-images.githubusercontent.com/76784461/156251265-3662083c-8c0e-496c-ad1f-c127da01df9a.png">
   </a>
 
