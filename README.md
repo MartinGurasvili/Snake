@@ -11,7 +11,7 @@
     This Is A Snake AI that uses a Linear QNet network for the computer to learn how to play snake - written using pytorch
     <br />
     <br>
-    <a href="https://github.com/MartinGurasvili/Snake/releases/"><strong> Install Source Code</strong></a>
+    <a href="https://github.com/MartinGurasvili/Snake/releases/download/v1.0.0/Snake_AI.zip"><strong> Install Source Code</strong></a>
     <br />
     <br>
 
