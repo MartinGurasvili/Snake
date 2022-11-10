@@ -1,4 +1,4 @@
-<h1 align="center">Snake</h1>
+<h1 align="center">Snake AI</h1>
 
 <div align="center">
   <a href="https://github.com/MartinGurasvili/Snake">
@@ -8,33 +8,28 @@
 
   <p align="center">
     <br>
-    This Is A Snake Game Built With Python Using The Pygame Framework
+    This Is A Snake AI that uses a Linear QNet network for the computer to learn how to play snake - written using pytorch
     <br />
     <br>
-    <!--<a href="https://github.com/MartinGurasvili/Sudoku/releases/download/v1.0.0/Sudoku.app.zip"><h3><img style="width:2%"  alt="Screenshot 2022-02-17 at 8 12 25 pm" src="https://user-images.githubusercontent.com/76784461/154564937-57c93aa0-69f8-497c-97d6-33b1d7d411e0.png"> Install Now</h3></a>
-    <br />-->
-   
+    <a href="https://github.com/MartinGurasvili/Snake/releases/"><strong> Install Source Code</strong></a>
+    <br />
+    <br>
 
   </p>
 </div>
-
+<div align="center">
+<h2 align="center" >Train or Load Pretrained Model</h2>
+<p>To Test the AI run the Snake_AI.py file <br>To train model select option 0<br>To load pretrained model select option 1 </p>
+    <img style="width:100%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/201170768-fd0a5693-a4ae-490b-a7d8-393c8e56f755.gif">
+  </div>
 
 
 <div align="center">
+<h2 align="center" >Play The Game Yourself </h2>
+<p>To play the game youself just run the Snake.py file</p>
     <img style="width:70%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/156251471-acebceb6-664f-4a3c-a524-b8f88fdc19a4.gif">
   </div>
 
-<br></br>
-<h1 align="center" >Features </h1>
-<br></br>
-
-   - [ ] Fast paced game
-   - [ ] Instant respawn
-   - [ ] Simple UI   
-   - [ ] Score system
-   - [ ] Randomised apple position
-   
-<br></br>
 
     
 
